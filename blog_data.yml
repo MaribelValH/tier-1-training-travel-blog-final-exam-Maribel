@@ -1,0 +1,35 @@
+#blog_data
+owner: "Maribel"
+is_active: True
+creation_date: 2025-08-01
+social_links: 
+    Linkedin: "https: //www.linkedin.com/in/maribel"
+    Facebook: "https: //www.facebook.com/maribel"
+    instagram: "https: //www.instagram.com/maribel"
+popular_posts:
+    - title: "Colombia Places"
+      views: 1805
+      tags:
+          - Colombia
+          - towns
+      comments: 1003
+    - title: "Other Places to visit"
+      views: 13045
+      tags:
+          - Places
+          - mundo
+          - cityes
+      comments: 28000
+newsletter_subscribers: 55308
+about: "Este blog da a conocer los diferentes lugares que puedes visitar en colombia y el contraste con otros lugares del mundo, todo depende de tus gustos y de lo que quieras conocer."
+featured_destination:
+    name: "Comuna 13"
+    country: "Medellin"
+    best_season: "Junio"
+    rating: 4
+contact_email: "maribel.valencia@deckard.com"
+partner_links:
+    - "https://www.viajaporcolombia.com"
+    - "https://www.lugaresdelmundo.com"
+last_update: 2025/08/12
+
